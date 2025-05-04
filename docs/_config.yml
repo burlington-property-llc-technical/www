@@ -3,4 +3,6 @@ description: Spacious residential living in South Squirrel Hill
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
+github:
+  is_project_page: false
 
