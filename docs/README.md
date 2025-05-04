@@ -2,7 +2,7 @@
 
 *Burlington Property LLC is a Pennsylvania LLC.*
 
-![Thumbnail of Leap day](thumbnail.png)
+![Front view of the building](img/U2_building.jpg)
 
 ## Second level heading
 
