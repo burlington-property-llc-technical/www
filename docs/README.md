@@ -1,6 +1,5 @@
 # Burlington Property, LLC 
 
-*Burlington Property LLC is a Pennsylvania LLC.*
 
 ![Front view of the building](img/U2_building.jpg)
 
@@ -14,14 +13,5 @@
 * Conveniently located near public transportation (bus stops less than 5 minutes away)
 
 
-
-## Second level heading
-
-Body text
-
-1. Numbered item
-
-2. Second numbered item
-
-### Third-level heading
+*Burlington Property LLC is a Pennsylvania LLC.*
 
