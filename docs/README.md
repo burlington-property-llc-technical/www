@@ -1,6 +1,6 @@
 Burlington Property, LLC is pleased to offer spacious two-bedroom one-bathroom (2br/1ba) apartments at 2021 Wendover St. in South Squirrel Hill.
-
-Each unit has air conditioning, dishwasher, garbage disposal, and full-sized kitchen range.
+Each apartment offers air conditioning, spacious living and dining areas, kitchen with dishwasher, garbage disposal, and full-sized kitchen range.
+Enjoy relaxing time outdoors in the building's private rear patio.
 
 
 ![Front view of the building](img/U2_building.jpg)
