@@ -5,4 +5,4 @@ google_analytics:
 theme: jekyll-theme-leap-day
 github:
   is_project_page: false
-jons_option: true
+jons_option: false
